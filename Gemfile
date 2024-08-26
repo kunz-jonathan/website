@@ -7,14 +7,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-<<<<<<< HEAD
-gem "jekyll", "~> 3.8"
-
-=======
+# Happy Jekylling! 
 gem "jekyll", "~> 4.2"
 
->>>>>>> b12411e66de622f121c42a2866a7217470507fc4
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
@@ -24,5 +19,5 @@ group :jekyll_plugins do
   gem "jekyll-compose"
 end
 
-gem 'wdm' if Gem.win_platform?
-gem "tzinfo-data" if Gem.win_platform?
+#gem 'wdm' if Gem.win_platform?
+#gem "tzinfo-data" if Gem.win_platform?
