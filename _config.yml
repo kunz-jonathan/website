@@ -56,7 +56,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Curriculum Vitae
-    url:               /curriculum_vitae.yml
+    url:               /curriculum_vitae/
   - title:             About
     url:               /about/
 
