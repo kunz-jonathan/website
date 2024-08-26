@@ -8,8 +8,13 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+<<<<<<< HEAD
 gem "jekyll", "~> 3.8"
 
+=======
+gem "jekyll", "~> 4.2"
+
+>>>>>>> b12411e66de622f121c42a2866a7217470507fc4
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
