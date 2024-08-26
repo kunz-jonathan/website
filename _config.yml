@@ -56,7 +56,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Curriculum Vitae
-    url:               /CV/CV
+    url:               /CV/CV/
   - title:             About
     url:               /about/
 
