@@ -52,7 +52,7 @@ author:
 menu:
   #- title:             Blog
   #  url:               /blog/
-    - title:             About
+  - title:             About
     url:               /index/
   #- title:             Projects
   #  url:               /projects/
