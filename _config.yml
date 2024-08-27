@@ -51,7 +51,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /index/
+    url:               index.md
   - title:             Curriculum Vitae
     url:               /resume/
 
@@ -300,6 +300,7 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
+  
 
 
 # File inclusion/exclusion
@@ -317,6 +318,7 @@ exclude:
 include:
   - .well-known
   - LICENSE.md
+  - index.md
 
 
 # Plugins
