@@ -53,7 +53,7 @@ menu:
   #- title:             Blog
   #  url:               /blog/
     - title:             About
-    url:               /index
+    url:               /index/
   #- title:             Projects
   #  url:               /projects/
   - title:             Curriculum Vitae
