@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling! 
 gem "jekyll", "~> 4.2"
 gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
-gem "jekyll-theme-hydejack"
+
 # Fixes `jekyll serve` in ruby 3
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
