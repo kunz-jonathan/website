@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: welcome
 title: About
-sitemap: false
+cover: true
 ---
 
 ## Hello, I am Jonathan

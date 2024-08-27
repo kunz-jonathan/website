@@ -51,7 +51,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               index.md
+    url:               /index/
   - title:             Curriculum Vitae
     url:               /resume/
 
