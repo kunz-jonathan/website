@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: About
+title: Hi, there
 cover: true
 ---
 
