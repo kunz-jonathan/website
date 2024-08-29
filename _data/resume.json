@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "Jonathan Kunz",
@@ -6,7 +5,6 @@
     "picture": "https://example.com/photo.jpg",
     "email": "Kunz.Jonathan@t-online.de",
     "phone": "(+49) 171 3622859",
-
     "location": {
       "address": "Im Neuenheimer Feld 679",
       "postalCode": "69120",
@@ -15,51 +13,63 @@
       "region": "Baden-Württemberg"
     },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "thomasedison",
-        "url": "https://www.linkedin.com/in/thomasedison"
-      },
-      {
-        "network": "Twitter",
-        "username": "realThomasEdison",
-        "url": "https://twitter.com/realThomasEdison"
-      }
+      {}
     ]
   },
   "work": [
     {
-      "company": "Summer School in Data Science",
-      "position": "Attendant",
+      "position": "Chemistry Trial Study",
       "website": "",
-      "startDate": "2024-09-01",
-      "endDate": "2024-09-01",
-      "summary": "Summer School that provides ",
-      "highlights": [
-        "Deep Learning, Model Optimization, Time Series Forecasting",
-        "PyTorch and Tensorflow"
-      ]
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Trial study at the Faculty of Chemistry in the winter semester 2018/2019 at the University of Duisburg-Essen"
+    },
+    {
+      "position": "'Studieren vor dem Abitur'",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "I completed the module Cell and Molecular Biology intheundergraduate Biology program with a grade of 2.0 at the Heinrich-Heine-University Düsseldorf"
+    },
+    {
+      "position": "'Jugend Forscht'",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Development of a research series 'Climate change equals fool change?' with participation in the regional competition and taking second place"
     },
     {
       "company": "Heidelberg Institute for Theoretical Studies",
-      "position": "Exchange Student",
+      "position": "Bachelor Thesis",
       "website": "",
       "startDate": "2024-02-01",
       "endDate": "2024-07-01",
-      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "summary": "Development of workflows for in-house program 'TRAPP' and docking software, AutoDock-Vina. Analysis of the binding properties and interactions for multiple test cases possibly allowing to identify new druggable targets",
       "highlights": [
-        "Played a key role in the development of electrical power and lighting systems.",
-        "Contributed to the advancement of numerous technological innovations."
+        "Docking Software: AutoDock-Vina, Glide, SiteMap",
+        "PyMol",
+        "Biopython"
+      ]
+    },
+    {
+      "company": "Tohoku Univeristy",
+      "position": "Summer School in Data Science",
+      "website": " ",
+      "startDate": "2024-09",
+      "endDate": "2024-09",
+      "summary": "In depth insight into multiple fields of data science, enhanced by real life real life test cases and presentations of cutting edge research conducted at Tohoku University ",
+      "highlights": [
+        "Deep Learning, Model Optimization, Time Series Forecasting",
+        "PyTorch and Tensorflow"
       ]
     }
   ],
   "education": [
     {
       "institution": "Gymnasium Fabritianum",
-      "area": "",
       "studyType": "Obtaining the general higher education entrance qualification",
-      "startDate": "2013-08-01",
-      "endDate": "2021-07-01",
+      "startDate": "2013",
+      "endDate": "2021",
       "gpa": "1.3",
       "courses": [
         "Mathematics",
@@ -67,31 +77,30 @@
         "History"
       ]
     },
-        {
+    {
       "institution": "Ruprecht-Karls-University Heidelberg",
       "area": "Biochemistry",
       "studyType": "Bachelor of Science",
-      "startDate": "2021-10-01",
-      "endDate": "2024-07-01",
+      "startDate": "2021",
+      "endDate": "2024",
       "gpa": "1.7",
       "courses": [
         "Curriculum with a strong focus in chemistry and molecular biologie in addition to biochemistry ",
         "additional lectures in bioinformatics, data science and biophysics"
       ]
     },
-        {
+    {
       "institution": "National University of Singapore",
       "area": "",
       "studyType": "Exchange Semester",
       "startDate": "2023-08-01",
-       "endDate": "2023-12-01",
+      "endDate": "2023-12-01",
       "gpa": "",
       "courses": [
-      "Syntethic Biologie",
-      "Protein Engineering",
-      "Introduction to Java",
-      "Protein Structure and Function"
-        
+        "Syntethic Biologie",
+        "Protein Engineering",
+        "Introduction to Java",
+        "Protein Structure and Function"
       ]
     },
     {
@@ -100,24 +109,26 @@
       "studyType": "Master of Science",
       "startDate": "2024-10-01",
       "gpa": "",
-      "courses": [
-        
-      ]
+      "courses": []
     }
   ],
-  
   "awards": [
     {
       "title": "Baden-Württemberg Scholarship",
       "date": "2023-08-01",
       "awarder": "Baden-Württemberg foundation",
       "summary": "Awarded for my exchange semester at National University of Singapore, based on my achievements during my bachelor studies"
+    },
+    {
+      "title": "Certificate in the STEMfield",
+      "date": "2021",
+      "awarder": "the national excellence school network",
+      "summary": "Throughout my school career, I placed a strong emphasis on STEM subjects, earning the highest distinction for my achievements"
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "level": "Master",
       "keywords": [
         "Python",
         "R",
@@ -126,25 +137,20 @@
     },
     {
       "name": "Machine Learning",
-      "level": "Expert",
       "keywords": [
         "PyTorch",
         "Tensorflow"
-        
       ]
     },
     {
       "name": "Computational Biochemistry",
-      "level": "Expert",
       "keywords": [
         "PyMol",
         "Maestro - Glide/SiteMap",
         "AutoDock Vina ",
         "Biopython"
-        
       ]
     }
-   
   ],
   "languages": [
     {
