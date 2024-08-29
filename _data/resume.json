@@ -1,0 +1,167 @@
+
+{
+  "basics": {
+    "name": "Jonathan Kunz",
+    "label": "Biochemist",
+    "picture": "https://example.com/photo.jpg",
+    "email": "Kunz.Jonathan@t-online.de",
+    "phone": "(+49) 171 3622859",
+
+    "location": {
+      "address": "Im Neuenheimer Feld 679",
+      "postalCode": "69120",
+      "city": "Heidelberg",
+      "countryCode": "Germany",
+      "region": "Baden-Württemberg"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thomasedison",
+        "url": "https://www.linkedin.com/in/thomasedison"
+      },
+      {
+        "network": "Twitter",
+        "username": "realThomasEdison",
+        "url": "https://twitter.com/realThomasEdison"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Summer School in Data Science",
+      "position": "Attendant",
+      "website": "",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-01",
+      "summary": "Summer School that provides ",
+      "highlights": [
+        "Deep Learning, Model Optimization, Time Series Forecasting",
+        "PyTorch and Tensorflow"
+      ]
+    },
+    {
+      "company": "Heidelberg Institute for Theoretical Studies",
+      "position": "Exchange Student",
+      "website": "",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
+      "summary": "Co-founded General Electric, one of the largest and most diversified industrial corporations in the world.",
+      "highlights": [
+        "Played a key role in the development of electrical power and lighting systems.",
+        "Contributed to the advancement of numerous technological innovations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gymnasium Fabritianum",
+      "area": "",
+      "studyType": "Obtaining the general higher education entrance qualification",
+      "startDate": "2013-08",
+      "endDate": "2021-07",
+      "gpa": "1.3",
+      "courses": [
+        "Mathematics",
+        "Biologie",
+        "History"
+      ]
+    },
+        {
+      "institution": "Ruprecht-Karls-University Heidelberg",
+      "area": "Biochemistry",
+      "studyType": "Bachelor of Science",
+      "startDate": "2021-10",
+      "endDate": "2024-07",
+      "gpa": "1.7",
+      "courses": [
+        "Curriculum with a strong focus in chemistry and molecular biologie in addition to biochemistry ",
+        "additional lectures in bioinformatics, data science and biophysics"
+      ]
+    },
+        {
+      "institution": "National University of Singapore",
+      "area": "",
+      "studyType": "Exchange Semester",
+      "startDate": "2023-08-01",
+       "endDate": "2023-12-01",
+      "gpa": "",
+      "courses": [
+      "Syntethic Biologie",
+      "Protein Engineering",
+      "Introduction to Java",
+      "Protein Structure and Function"
+        
+      ]
+    },
+    {
+      "institution": "Ruprecht-Karls-University Heidelberg",
+      "area": "Biochemistry",
+      "studyType": "Master of Science",
+      "startDate": "2024-10-01",
+      "gpa": "",
+      "courses": [
+        
+      ]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "Baden-Württemberg Scholarship",
+      "date": "2023-08-01",
+      "awarder": "Baden-Württemberg foundation",
+      "summary": "Awarded for my exchange semester at National University of Singapore, based on my achievements during my bachelor studies"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "R",
+        "Java"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Expert",
+      "keywords": [
+        "PyTorch",
+        "Tensorflow"
+        
+      ]
+    },
+    {
+      "name": "Computational Biochemistry",
+      "level": "Expert",
+      "keywords": [
+        "PyMol",
+        "Maestro - Glide/SiteMap",
+        "AutoDock Vina ",
+        "Biopython"
+        
+      ]
+    }
+   
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1 TOEFL iBT"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Level B1"
+    },
+    {
+      "language": "Latin",
+      "fluency": "Obtaining the latinum with the general higher education entrance qualification"
+    }
+  ]
+}
