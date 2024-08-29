@@ -6,16 +6,16 @@ description: >
   You'll probably want to modify it in `resume.md`, and maybe set `hide_description` to `true` in the front matter.
 hide_description: true
 left_column:
-  - work
-  - volunteer
   - education
+  - volunteer
+  - work
   - publications
   - references
 right_column:
-  - languages
   - skills
   - interests
   - awards
+  - languages
 no_language_icons: true
 no_skill_icons: true
 buttons:

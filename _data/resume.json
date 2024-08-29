@@ -2,7 +2,6 @@
   "basics": {
     "name": "Jonathan Kunz",
     "label": "Biochemist",
-    "picture": "https://example.com/photo.jpg",
     "email": "Kunz.Jonathan@t-online.de",
     "phone": "(+49) 171 3622859",
     "location": {
@@ -11,10 +10,7 @@
       "city": "Heidelberg",
       "countryCode": "Germany",
       "region": "Baden-Württemberg"
-    },
-    "profiles": [
-      {}
-    ]
+    }
   },
   "work": [
     {
